@@ -1,0 +1,8 @@
+.env
+app.db
+Procfile
+migrations
+.vscode
+__pycache__
+venv
+blog_may_env
